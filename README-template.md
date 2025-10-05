@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [blog-preview-card-main.git](https://github.com/ParsaZ24/blog-preview-card-main.git)
 - Live Site URL: []()
 
 ## My process
